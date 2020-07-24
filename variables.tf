@@ -14,7 +14,7 @@ variable "aws_region" {
 variable "amis" {
   description = "AMIs por region"
   default = {
-    eu-west-1 = "ami-0ba1c3ef9156479a2"
+    eu-west-1 = "ami-04122be15033aa7ec"
   }
 }
 
